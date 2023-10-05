@@ -1,0 +1,15 @@
+{
+  "name": "discordbro",
+  "version": "1.0.0",
+  "description": "Tool to extract users sorted by most mutual server on Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-v11-stable": "^11.6.6"
+  }
+}
